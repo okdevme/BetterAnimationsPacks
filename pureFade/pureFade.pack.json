@@ -1,11 +1,22 @@
 {
   "name": "Pure Fade",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "arg0NNY",
   "description": "A collection of transparency switch animations from BetterAnimations with a true fade transition — eliminating the slight flicker of the background at the cost of lacking support for transparent Discord themes.",
   "invite": "M8DBtcZjXD",
-  "authorLink": "https://github.com/arg0NNY/BetterAnimationsPacks",
+  "authorLink": "https://github.com/okdevme/BetterAnimationsPacks",
   "donate": "https://boosty.to/arg0nny/donate",
+  "changelog": {
+    "changes": [
+      {
+        "type": "fixed",
+        "title": "Fixes",
+        "items": [
+          "Updated author link."
+        ]
+      }
+    ]
+  },
 
   "snippets": [
     {
